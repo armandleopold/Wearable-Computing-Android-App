@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtViewAxValue" type="id"/>
+    <item name="txtViewAyValue" type="id"/>
+    <item name="txtViewAzValue" type="id"/>
+    <item name="txtViewMx" type="id"/>
+    <item name="txtViewMy" type="id"/>
+    <item name="txtViewMz" type="id"/>
+</resources>
